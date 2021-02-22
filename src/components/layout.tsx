@@ -30,7 +30,6 @@ const Layout: FunctionComponent<IProps> = ({ main }) => {
             <main style={{ minHeight: "calc(100vh-64px)" }}>
                 {main}
             </main>
-
         </div>
     )
 }
